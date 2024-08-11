@@ -1,4 +1,4 @@
-<h1 style="color:white; bgcolor:black">VAIBHAV LANJEWAR</h1>
+<h1 style="color:yelloow; bgcolor:grey">VAIBHAV LANJEWAR</h1>
 
 # 💫 About Me:
 4th-year IT student at SGGSIE&T with a strong background in machine learning.<br>Familiar with programming languages including C, C++, Python, and Java.<br>Strong understanding of data structures, algorithms, and software development practices.<br>Interested in opportunities for software development and collaborative projects to further enhance my skills.
